@@ -43,5 +43,3 @@ Week_3/
 ## Notes
 This implementation focuses on correctness, clarity, and scalability
 and prepares the system for future vector database integration.
-
-Last updated: Week 3 implementation finalized.
